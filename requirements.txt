@@ -1,0 +1,10 @@
+dash
+pandas
+dash-core-components
+dash-html-components
+gunicorn
+networkx
+plotly
+ast
+collections
+itertools
