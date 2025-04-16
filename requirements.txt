@@ -5,5 +5,4 @@ dash-html-components
 gunicorn
 networkx
 plotly
-collections
 itertools
