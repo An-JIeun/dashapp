@@ -8,7 +8,7 @@ import pandas as pd
 import ast
 # Dash 앱 초기화
 app = dash.Dash(__name__)
-
+server = app.server
 # 상위 30개 단어 추출 (빈도 기준)
 from collections import Counter
 from itertools import chain
